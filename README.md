@@ -95,4 +95,5 @@ poker_payout.py    # Single-file application containing all logic and the GUI
 
 ## Acknowledgements
 
-GUI layout assisted with ChatGPT. ICM probability calculations implemented using Python's `itertools.permutations` for exact combinatorial evaluation.
+GUI layout assisted with ChatGPT. ICM probability calculations implemented using Python's `itertools.permutations` for exact combinatorial evaluation. University of York Poker Society https://york-poker.com/
+
